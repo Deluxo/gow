@@ -10,6 +10,6 @@ Not all functionality is identical, but works just as well.
 
 You can use `gow --help` to get the usage information.
 
-### Instalation
+### Installation
 
 `go get github.com/deluxo/gow` or clone the repo and build it yourself.
